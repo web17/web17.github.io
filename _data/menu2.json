@@ -1,0 +1,22 @@
+{
+    "menu": [
+       {
+          "url": "test",
+          "name": "Testing",
+          "submenu": [
+             {
+                "url": "submenu",
+                "name": "submenufs"
+             }
+          ]
+       },
+       {
+          "url": "test2",
+          "name": "testing2"
+       },
+       {
+          "url": "test3",
+          "name": "Testing3"
+       }
+    ]
+ }

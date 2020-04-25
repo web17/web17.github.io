@@ -1,0 +1,176 @@
+﻿{
+    "siteMap": {
+        "root": "http://sonnenenergiewinnen.de",
+        "siteMapNode": [
+            {
+                "_url": "/go.php/?doc=default",
+                "_title": "Startseite",
+                "_description": "Startseite"
+            },
+            {
+                "siteMapNode": {
+                    "_url": "/go.php/?doc=wirueberuns/leistungsspektrum",
+                    "_title": "Leistungsspektrum",
+                    "_description": "Leistungsspektrum"
+                },
+                "_url": "/go.php/?doc=wirueberuns",
+                "_title": "Wir über uns",
+                "_description": "Wir über uns"
+            },
+            {
+                "siteMapNode": [
+                    {
+                        "_url": "/go.php/?doc=photovoltaik/vorteilederphotovoltaik",
+                        "_title": "Vorteile der Photovoltaik",
+                        "_description": "Vorteile der Photovoltaik"
+                    },
+                    {
+                        "_url": "/go.php/?doc=photovoltaik/unsereleistungen",
+                        "_title": "Unsere Leistungen",
+                        "_description": "Unsere Leistungen"
+                    },
+                    {
+                        "_url": "/go.php/?doc=photovoltaik/eigenverbrauch",
+                        "_title": "Eigenverbrauch",
+                        "_description": "Eigenverbrauch"
+                    },
+                    {
+                        "_url": "/go.php/?doc=photovoltaik/speicher",
+                        "_title": "Speicherlösungen",
+                        "_description": "Speicherlösungen"
+                    },
+                    {
+                        "_url": "/go.php/?doc=photovoltaik/service",
+                        "_title": "Service",
+                        "_description": "Service"
+                    },
+                    {
+                        "siteMapNode": [
+                            {
+                                "_url": "/go.php/?doc=photovoltaik/referenzen/spezielles",
+                                "_title": "PV auf Bitumenflachdach",
+                                "_description": "PV auf Bitumenflachdach"
+                            },
+                            {
+                                "_url": "/go.php/?doc=photovoltaik/referenzen/plattenbauten",
+                                "_title": "PV auf Plattenbauten",
+                                "_description": "PV auf Plattenbauten"
+                            },
+                            {
+                                "_url": "/go.php/?doc=photovoltaik/referenzen/variant",
+                                "_title": "PV Varianten Flachdach",
+                                "_description": "PV Varianten Flachdach"
+                            }
+                        ],
+                        "_url": "/go.php/?doc=photovoltaik/referenzen",
+                        "_title": "Referenz-Projekte",
+                        "_description": "Referenz-Projekte"
+                    }
+                ],
+                "_url": "/go.php/?doc=photovoltaik",
+                "_title": "Photovoltaik",
+                "_description": "Photovoltaik"
+            },
+            {
+                "siteMapNode": [
+                    {
+                        "_url": "/go.php/?doc=solarthermie/vorteiledersolarthermie",
+                        "_title": "Vorteile der Solarthermie",
+                        "_description": "Vorteile der Solarthermie"
+                    },
+                    {
+                        "_url": "/go.php/?doc=solarthermie/unsereleistungen",
+                        "_title": "Unsere Leistungen",
+                        "_description": "Unsere Leistungen"
+                    }
+                ],
+                "_url": "/go.php/?doc=solarthermie",
+                "_title": "Solarthermie",
+                "_description": "Solarthermie"
+            },
+            {
+                "siteMapNode": [
+                    {
+                        "_url": "/go.php/?doc=solarsimulation/energieberechnung",
+                        "_title": "Vorteile der Solarthermie",
+                        "_description": "Solarenergie Berechnung"
+                    },
+                    {
+                        "_url": "/go.php/?doc=solarsimulation/sonnenstandsberechnung",
+                        "_title": "Sonnenstandsberechnung",
+                        "_description": "Sonnenstandsberechnung"
+                    },
+                    {
+                        "_url": "/go.php/?doc=solarsimulation/photovoltaik",
+                        "_title": "Prozess-Simulation Photovoltaik",
+                        "_description": "Prozess-Simulation Photovoltaik"
+                    },
+                    {
+                        "_url": "/go.php/?doc=solarsimulation/solarthermie",
+                        "_title": "Prozess-Simulation Solarthermie",
+                        "_description": "Prozess-Simulation Solarthermie"
+                    }
+                ],
+                "_url": "/go.php/?doc=solarsimulation",
+                "_title": "Solar Simulation",
+                "_description": "Solar Simulation"
+            },
+            {
+                "siteMapNode": [
+                    {
+                        "_url": "/go.php/?doc=kontakt/impressum",
+                        "_title": "Impressum",
+                        "_description": "Impressum"
+                    },
+                    {
+                        "_url": "/go.php/?doc=kontakt/links",
+                        "_title": "Links",
+                        "_description": "Links"
+                    }
+                ],
+                "_url": "/go.php/?doc=kontakt",
+                "_title": "Kontakt",
+                "_description": "Kontakt"
+            },
+            {
+                "siteMapNode": [
+                    {
+                        "_url": "/go.php/?doc=news/solarthermie",
+                        "_title": "Förderung Solarthermie",
+                        "_description": "Förderung Solarthermie"
+                    },
+                    {
+                        "siteMapNode": [
+                            {
+                                "_url": "/go.php/?doc=news/photovoltaik/tabelle",
+                                "_title": "Vergütungs-Tabelle",
+                                "_description": "Vergütungs-Tabelle"
+                            },
+                            {
+                                "_url": "/go.php/?doc=news/photovoltaik/zubau",
+                                "_title": "Monatlicher Zubau",
+                                "_description": "Monatlicher Zubau"
+                            }
+                        ],
+                        "_url": "/go.php/?doc=news/photovoltaik",
+                        "_title": "Förderung Photovoltaik",
+                        "_description": "Förderung Photovoltaik"
+                    },
+                    {
+                        "_url": "/go.php/?doc=news/fua",
+                        "_title": "Fragen und Antworten",
+                        "_description": "Fragen und Antworten"
+                    },
+                    {
+                        "_url": "/go.php/?doc=news/solarkonflikt",
+                        "_title": "Solar-Konflikt",
+                        "_description": "Solar-Konflikt"
+                    }
+                ],
+                "_url": "/go.php/?doc=news",
+                "_title": "News",
+                "_description": "News"
+            }
+        ]
+    }
+}
